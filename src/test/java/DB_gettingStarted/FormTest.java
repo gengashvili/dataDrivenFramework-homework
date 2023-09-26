@@ -1,3 +1,5 @@
+package DB_gettingStarted;
+
 import org.testng.annotations.*;
 
 import static com.codeborne.selenide.Selenide.*;
