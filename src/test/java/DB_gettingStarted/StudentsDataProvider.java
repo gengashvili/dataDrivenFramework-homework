@@ -1,3 +1,6 @@
+package DB_gettingStarted;
+
+import DB_gettingStarted.StudentDataRetrieval;
 import org.testng.annotations.DataProvider;
 import java.sql.ResultSet;
 import java.sql.SQLException;
